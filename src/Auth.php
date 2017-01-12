@@ -11,7 +11,7 @@ class Auth implements \hlin\archetype\Authorizer {
 
 	// initialization constants
 	const Unidentified = null;
-	const Guest = 'freia:GuestType';
+	const Guest = 'guest';
 
 	// authorization constants
 	const Everybody  = null;
